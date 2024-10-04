@@ -9,4 +9,5 @@ git push -u origin <branch-name>
 git pull
 git fetch
 git merge
+git clone ...
 ```
