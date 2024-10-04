@@ -7,4 +7,6 @@ git add .
 git commit -m "Message"
 git push -u origin <branch-name>
 git pull
+git fetch
+git merge
 ```
